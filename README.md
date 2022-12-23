@@ -1,1 +1,1 @@
-# ts-mergeArray
+# ts-merge-array
